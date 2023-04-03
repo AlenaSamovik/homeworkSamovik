@@ -1,0 +1,40 @@
+Mon Apr  3 07:04:29 UTC 2023
+  796  cd ~
+  797  date > /AlenaSamovik/hw2703.txt
+  798  date > /home/AlenaSamovik/hw2703.txt
+  799  date > /home/280223/AlenaSamovik/hw2703.txt
+  800  history | tail -n5 >> /home/280223/AlenaSamovik/hw2703.txt
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        1.9G     0  1.9G   0% /dev
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           1.9G  672K  1.9G   1% /run
+tmpfs           1.9G     0  1.9G   0% /sys/fs/cgroup
+/dev/nvme0n1p1   20G  9.1G   11G  46% /
+tmpfs           388M     0  388M   0% /run/user/1000
+tmpfs           388M     0  388M   0% /run/user/1008
+/proc/cpuinfo,
+
+vendor_id
+model
+microcode
+:
+core
+initial
+cpuid
+vme
+cmov
+pdpe1gb
+tsc_known_freq
+sse4_2
+cr8_legacy
+fsgsbase
+sha_ni
+nrip_save
+spec_store_bypass
+TLB
+cache_alignment
+virtual
+
+AuthenticAMD
+
+Tasks: 123 total
